@@ -1,6 +1,6 @@
 ## Tank Fight Game
 ## Overview
-The DataFlair Tanks Game is a fun and engaging 2D tank battle game built using Python and the Pygame library. Players aim to destroy the enemy tank before being destroyed. The game offers multiple interactive features like turret control, movement, power adjustment, and firing shells.
+The Tank Fight  Game is a fun and engaging 2D tank battle game built using Python and the Pygame library. Players aim to destroy the enemy tank before being destroyed. The game offers multiple interactive features like turret control, movement, power adjustment, and firing shells.
 
 ## Features
 **Interactive Gameplay:** Control your tank and turret to aim and fire at enemies.
